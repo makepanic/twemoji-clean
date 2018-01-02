@@ -6,10 +6,14 @@ This is a fork that removes everything except the twemoji2 js files and its 72x7
 
 A simple library that provides standard Unicode [emoji](http://en.wikipedia.org/wiki/Emoji) support across all platforms.
 
-**Twemoji v2.3** adheres to the [Unicode 10.0 draft spec](http://unicode.org/versions/Unicode10.0.0/) and supports the [Emoji 5.0 draft spec](http://unicode.org/reports/tr51/proposed.html)
+**Twemoji v2.4** adheres to the [Unicode 10.0 spec](http://unicode.org/versions/Unicode10.0.0/) and supports the [Emoji 5.0 spec](http://unicode.org/reports/tr51/)
 
-The Twemoji library offers support for **2,661** emojis, including skin tone and gender modifiers. 
+The Twemoji library offers support for **2,685** emojis, including skin tone and gender modifiers. 
 
+#### Please note
+The files in the root folder in this project are deprecated and listed for CDN and historical reasons.
+
+Please use the files for the current version (2) instead, located under the folder `./2/`.
 
 ## CDN Support
 
@@ -17,7 +21,7 @@ The folks over at [MaxCDN](https://www.maxcdn.com) have graciously provided CDN 
 
 Use the following in the `<head>` tag of your HTML document(s):
 ```html
-<script src="//twemoji.maxcdn.com/2/twemoji.min.js?2.3.0"></script>
+<script src="//twemoji.maxcdn.com/2/twemoji.min.js?2.4"></script>
 ```
 
 ## Breaking changes in V2
@@ -65,7 +69,7 @@ I <img
   class="emoji"
   draggable="false"
   alt="❤️"
-  src="https://twemoji.maxcdn.com/36x36/2764.png"> emoji!
+  src="https://twemoji.maxcdn.com/36x36/2764.png"/> emoji!
 */
 ```
 
@@ -86,7 +90,7 @@ I <img
   class="emoji"
   draggable="false"
   alt="❤️"
-  src="/assets/36x36/2764.gif"> emoji!
+  src="/assets/36x36/2764.gif"/> emoji!
 */
 ```
 
@@ -113,7 +117,7 @@ emoji, m❤️n am<img
   class="emoji"
   draggable="false"
   alt="❤️"
-  src="/assets/2764.png">ur
+  src="/assets/2764.png"/>ur
 */
 ```
 
@@ -137,7 +141,7 @@ I <img
   class="emoji"
   draggable="false"
   alt="❤️"
-  src="/assets/128x128/2764.gif"> emoji!
+  src="/assets/128x128/2764.gif"/> emoji!
 */
 ```
 
