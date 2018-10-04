@@ -23,5 +23,7 @@
     "type": "git",
     "url": "git://github.com/makepanic/twemoji-clean.git"
   },
-  "main": "./2/twemoji.npm.js"
+  "main": "./2/twemoji.npm.js",
+  "module": "./2/esm.js",
+  "unpkg": "./2/twemoji.min.js"
 }
