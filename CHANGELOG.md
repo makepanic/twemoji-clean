@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="11.4.0"></a>
+# [11.4.0](https://github.com/makepanic/twemoji-clean/compare/v11.3.0...v11.4.0) (2019-04-01)
+
+
+
 <a name="11.3.0"></a>
 # [11.3.0](https://github.com/makepanic/twemoji-clean/compare/v11.2.0...v11.3.0) (2019-01-30)
 
