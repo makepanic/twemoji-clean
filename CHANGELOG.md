@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [13.0.2](https://github.com/makepanic/twemoji-clean/compare/v13.0.1...v13.0.2) (2020-11-30)
+
+
+### Bug Fixes
+
+* use correct module file name ([cf98400](https://github.com/makepanic/twemoji-clean/commit/cf9840099b176f8af2b5123e82d28cc31f9a4f15))
+
 ### [13.0.1](https://github.com/makepanic/twemoji-clean/compare/v13.0.0...v13.0.1) (2020-07-29)
 
 ## [13.0.0](https://github.com/makepanic/twemoji-clean/compare/v12.1.6...v13.0.0) (2020-05-12)
